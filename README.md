@@ -33,4 +33,18 @@ SET 1: TX_NEG = 1, RX_NEG = 0, LSB = 1, CHAR_LEN = 4</strong>
 <strong>SET 3: TX_NEG = 0, RX_NEG = 1, LSB = 1, CHAR_LEN = 4</strong>
 ![image](https://github.com/daringpatil3134/SPI_Serial_Peripheral_Interface_Verilog_Modules/assets/83998270/b1e5b156-44bc-4709-b452-178254348cdb)
 
+## License
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. You are free to:
+
+* Share — copy and redistribute the material in any medium or format
+* Adapt — remix, transform, and build upon the material
+
+Under the following terms:
+
+* Attribution — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+* NonCommercial — You may not use the material for commercial purposes.
+* ShareAlike — If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+For more details, refer to the license.
+
 For More Details Please Refer The Project Report :- [SPI Design Project Report](https://drive.google.com/file/d/1IAZNETm_P4-l9MCdvRWQpI7wAFOC6SgX/view?usp=share_link)
